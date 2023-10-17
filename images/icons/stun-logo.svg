@@ -1,0 +1,13 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.st1{fill:#FFFFFF;}</style>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m354.8,85.9c-53.2,-30.8 -97.6,-55.9 -98.8,-55.9s-45.6,25.1 -98.8,55.9l-96.6,55.9l0,228.4l96.7,56.1c55.2,31.9 97.6,56 98.8,55.9c1.1,-0.1 45.6,-25.3 98.7,-56.1l96.6,-55.9l0,-228.5l-96.6,-55.8z" fill="#73C8FF"/>
+  <text font-style="italic" font-weight="bold" stroke="#ffffff" transform="rotate(-0.34465163946151733 255.98562622072615,255.99998474121062) matrix(7.55999994277954,0,0,7.333333492279053,-1183.8399899005888,-1089.0000267028809) " xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="32" id="svg_6" y="194.851532" x="170.886901" stroke-width="0" fill="#ffffff">鹰</text>
+ </g>
+</svg>
